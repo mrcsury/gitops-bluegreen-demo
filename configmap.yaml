@@ -4,4 +4,4 @@ metadata:
   name: nginx-blue-html
 data:
   index.html: |
-    <h1>Blue Version (v1)</h1>
+    <h1>Blue Version (v21)</h1>
