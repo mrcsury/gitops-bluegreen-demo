@@ -13,7 +13,8 @@ spec:
     metadata:
       labels:
         app: nginx-bluegreen
-
+      annotations:
+        version: "2"       
     spec:
       containers:
         - name: nginx
